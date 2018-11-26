@@ -10,7 +10,7 @@ project:
   title: "MINIPAIRE"
   type: "Branded Apparel Store"
   url: "https://www.minipaire.com"
-  logo: "/assets/images/projects/mp3.png"
+  logo: "/assets/images/projects/mp3.PNG"
   tech: "Shopify Store"
 
 agency:
