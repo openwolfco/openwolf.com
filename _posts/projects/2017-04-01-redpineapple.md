@@ -4,29 +4,25 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: "minipaire, minipaire apparel"
 
 project:
-  title: "Red Pineapple"
-  type: "Jekyll"
-  url: "https://github.com/arnolds/pineapple"
-  logo: "/assets/images/projects/redpineapple/logo.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
+  title: "MINIPAIRE"
+  type: "Branded Apparel Store"
+  url: "https://www.minipaire.com"
+  logo: "/assets/images/projects/mp3.png"
+  tech: "Shopify Store"
 
 agency:
-  title: "Red Pineapple Co"
-  url: "https://github.com/arnolds/pineapple"
-  year: "2017"
+  title: "OPENWOLF Investments Ltd."
+  url: "https://openwolf.com"
+  year: "2018"
 
 images:
   - image:
-    url: "/assets/images/projects/redpineapple/devices.jpg"
-    alt: "Red Pineapple website on tablet, mobile and desktop"
-  - image:
-    url: "/assets/images/projects/redpineapple/desktop.jpg"
-    alt: "Red Pineapple website on a desktop device"
-  - image:
-    url: "/assets/images/projects/redpineapple/mobile.jpg"
-    alt: "Red Pineapple website on a mobile device"
+    url: "/assets/images/projects/mp1.png"
+    alt: "MiniPaire.com"
 ---
-<p>Pineapples are delicious tropical fruit. There are more than a hundred varieties of pineapples that grow in varying sizes. The plant is indigenous to South America and is said to originate from the area between southern Brazil and Paraguay.</p>
+<p>MiniPaire is a branded family apparel store that focuses on the French market. The business works with a major printing manufacturer with warehouses in Bordeaux, FR and USA.</p>
+<br>
+<p>Matching T-Shirt designs are custom created and branded by Minipaire. Extensive online marketing has been completed and the store is currently live. </p>
