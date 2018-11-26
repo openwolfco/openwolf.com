@@ -23,6 +23,6 @@ images:
     url: "/assets/images/projects/mp1.png"
     alt: "MiniPaire.com"
 ---
-<p>MiniPaire is a branded family apparel store that focuses on the French market. The business works with a major printing manufacturer with warehouses in Bordeaux, FR and USA.</p>
+<p>MiniPaire.com is a branded family apparel store that focuses on the French market. The business works with a major printing manufacturer with warehouses in Bordeaux, FR and USA.</p>
 <br>
 <p>Matching T-Shirt designs are custom created and branded by Minipaire. Extensive online marketing has been completed and the store is currently live. </p>
