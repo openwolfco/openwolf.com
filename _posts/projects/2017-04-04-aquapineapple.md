@@ -4,17 +4,17 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: "frenchreve"
 
 project:
-  title: "Aqua Pineapple"
-  type: "Jekyll"
-  url: "https://github.com/arnolds/pineapple"
+  title: "FRENCHREVE"
+  type: "Online Store"
+  url: "https://www.frenchreve.com"
   logo: "/assets/images/projects/aquapineapple/logo.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
+  tech: "Woocommerce"
 
 agency:
-  title: "Aqua Pineapple Co"
+  title: "OPENWOLF Investments Ltd."
   url: "https://github.com/arnolds/pineapple"
   year: "2018"
 
