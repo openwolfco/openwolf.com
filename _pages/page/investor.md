@@ -4,7 +4,7 @@ permalink: /:title/
 category: pages
 
 project:
-  title: "Investor Information"
+  title: "Investor"
   
 meta:
   keywords: "Investor Information"
