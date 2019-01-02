@@ -3,7 +3,7 @@ layout: page
 permalink: /:title/
 category: pages
 
-project:
+page:
   title: "Investor"
   
 meta:
