@@ -23,6 +23,6 @@ images:
     url: "/assets/images/projects/lt_ow_2.jpg"
     alt: "FRENCHREVE Store"
 ---
-<p><a href="lasertrendy.com" target="_blank">LASERTRENDY.COM</a> is a viral gadget store. </p>
+<p><a href="https://lasertrendy.com" target="_blank">LASERTRENDY.COM</a> is a viral gadget store. </p>
 <br>
 <p>Dropshipping business that sells clothing, viral gadgets and other trendy products. The has excellent organic search presence, and has active sales powered by social media marketing.</p> 
