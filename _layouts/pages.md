@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>{{ site.author }} / {{ page.project.title }}</title>
+	<meta name="author" content="{{ site.author }}">
+	<meta name="description" content="{{ page.content | strip_html | strip_newlines }}">
+	<meta name="keywords" content="{{ page.meta.keywords }}">
+	{% include head.html %}
+</head>
+<body>
+	{% include header.html %}
+		<main class="content">
+
+		<section class="projects">
+			<div class="container">
+				<p>Page here.</p>
+			</div>
+		</section>
+	</main>
+	{% include footer.html %}
+	<script src="{{ "/assets/scripts/vendor/jquery-1.12.4.min.js" | prepend: site.baseurl }}"></script>
+	<script src="{{ "/assets/scripts/vendor/scrollreveal.min.js" | prepend: site.baseurl }}"></script>
+	<script src="{{ "/assets/scripts/vendor/sticky-kit.min.js" | prepend: site.baseurl }}"></script>
+	<script src="{{ "/assets/scripts/project.js" | prepend: site.baseurl }}"></script>
+</body>
+</html>
