@@ -230,6 +230,91 @@
 	}
 }
 
+.project-page {
+	left: 0;
+	position: relative;
+	top: 0;
+
+	@media (min-width: $breakpoint-medium) {
+		margin-top: -21rem;
+
+		.article-wrapper {
+			position: absolute;
+			top: 0;
+			left: 0;
+			right: 0;
+			bottom: 0;
+		}
+	}
+
+	.container {
+		max-width: 80%;
+	}
+
+	article {
+		margin-bottom: 3rem;
+
+		@media (min-width: $breakpoint-medium) {
+			float: right;
+			right: 0;
+			width: 30%;
+			position: absolute;
+			right: 5%;
+		}
+	}
+
+	aside {
+		margin-left: -3rem;
+		margin-right: -3rem;
+
+		@media (min-width: $breakpoint-small) {
+			@include clearfix;
+		}
+
+		@media (min-width: $breakpoint-medium) {
+			float: left;
+			width: 55%;
+		}
+	}
+
+	.project-meta {
+		margin: 3rem 0 0;
+
+		@media (min-width: $breakpoint-medium) {
+			margin: 5rem 0 0;
+			max-width: 70%;
+		}
+	}
+
+	.h2 {
+		margin: 3rem 0 .5rem;
+
+		&:first-of-type {
+			margin-top: 0;
+		}
+	}
+
+	h1 {
+		a {
+			text-decoration: underline;
+		}
+	}
+
+	li {
+		margin-bottom: 0rem;
+
+		&:last-child {
+			margin-bottom: 0;
+		}
+	}
+
+	img {
+		width: 100%;
+	}
+}
+
+
+
 .project-navigation {
 	background: $color-black;
 	padding: 5rem 0;
