@@ -25,4 +25,4 @@ images:
 ---
 <p><a href="https://lasertrendy.com" target="_blank">LASERTRENDY.COM</a> is a viral gadget store. </p>
 <br>
-<p>Dropshipping business that sells clothing, viral gadgets and other trendy products. The has excellent organic search presence, and has active sales powered by social media marketing.</p> 
+<p>Dropshipping business that sells clothing, viral gadgets and other trendy products. The store has excellent organic search presence, and has active sales powered by social media marketing.</p> 
