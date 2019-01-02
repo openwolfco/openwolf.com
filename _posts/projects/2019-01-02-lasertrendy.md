@@ -10,7 +10,7 @@ project:
   title: "LASERTRENDY.COM"
   type: "Viral Gadget Store"
   url: "https://lasertrendy.com/"
-  logo: "/assets/images/projects/lt_ow_2.jpg"
+  logo: "/assets/images/projects/lt_ow_1.jpg"
   tech: "Shopify"
 
 agency:
@@ -20,7 +20,7 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/lt_ow_1.jpg"
+    url: "/assets/images/projects/lt_ow_2.jpg"
     alt: "FRENCHREVE Store"
 ---
 <p>FRENCH REVE LTD is an online business registered officially in the UK and targets customers from France, Switzerland and UK.</p>
