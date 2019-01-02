@@ -7,7 +7,7 @@ meta:
   keywords: "frenchreve"
 
 project:
-  title: "FRENCHREVE"
+  title: "FRENCHREVE.COM"
   type: "Online Store"
   url: "https://www.frenchreve.com"
   logo: "/assets/images/projects/fr.png"
