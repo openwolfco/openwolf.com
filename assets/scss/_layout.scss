@@ -6,7 +6,7 @@
 	@include clearfix;
 }
 .bgMain {
-	background-image: 'https://openwolf.com/assets/images/projects/ow_main.jpg';
+	background-image: url("https://openwolf.com/assets/images/projects/ow_main.jpg");
 }
 .header {
 	background: $color-white;
