@@ -5,7 +5,9 @@
 	padding: 0 3rem;
 	@include clearfix;
 }
-
+.bgMain {
+	background-img: 'https://openwolf.com/assets/images/projects/ow_main.jpg';
+}
 .header {
 	background: $color-white;
 	padding: 3rem 0;
