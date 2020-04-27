@@ -6,5 +6,5 @@ xmlhttp.onreadystatechange = function() {
 
   }
 };
-xmlhttp.open("GET", "https://res.cloudinary.com/openwolf/files/covidStat.json/covidStat", true);
+xmlhttp.open("GET", "https://res.cloudinary.com/openwolf/files/covidph.json/covidph", true);
 xmlhttp.send();
